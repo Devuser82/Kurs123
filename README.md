@@ -1,2 +1,2 @@
 # Kurs123
-Kurs testowanie oprogramowania.
+Kurs testowanie oprogramowania z nowymi technologiami.
